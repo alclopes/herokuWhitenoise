@@ -1,6 +1,6 @@
 # Deploy de Aplicação Django no Heroku - Projeto Heroku 01 - Whitenoise
 
-Conheça esta aplicação no [Heroku](https://alclopes-test.herokuapp.com/).
+Conheça esta aplicação no [Heroku](https://herokuwhitenoise.herokuapp.com/).
 
 ## Características básicas desta aplicação
 ##### 01. Projeto de página única 
@@ -62,7 +62,7 @@ Conheça esta aplicação no [Heroku](https://alclopes-test.herokuapp.com/).
 ##### 3. Gestão de arquivos média 
 => Situação: Feito/Sucesso (mais detalhes abaixo)
 
-#### Detalhes da Situação do Projeto
+## Detalhes da Situação do Projeto
 
 ##### 1. Arquivos estáticos - Situação: Aguardando Solução
 * Envolveu: Imagens e CSS
